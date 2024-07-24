@@ -1,0 +1,2 @@
+cd my-chatbot
+npm init -y
